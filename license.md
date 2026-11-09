@@ -160,4 +160,4 @@ cinco minutos.
 
 ---
 
-*Emulador Yuzu · Actualizado 2026-11-08 · Compartido bajo licencia MIT*
+*Emulador Yuzu · Actualizado 2026-11-09 · Compartido bajo licencia MIT*
